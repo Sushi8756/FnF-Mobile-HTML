@@ -1,0 +1,8 @@
+<TextureAtlas imagePath="GF_assets_week2.png">
+	
+	
+	<SubTexture name="GF FEAR 0000" x="0" y="0" width="349" height="320" />
+	<SubTexture name="GF FEAR 0001" x="354" y="0" width="349" height="320" />
+	<SubTexture name="GF FEAR 0002" x="0" y="325" width="349" height="319" frameX="0" frameY="-1" frameWidth="349" frameHeight="320" />
+	<SubTexture name="GF FEAR 0003" x="354" y="325" width="349" height="320" />
+</TextureAtlas>
